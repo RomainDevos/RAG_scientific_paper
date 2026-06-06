@@ -1,6 +1,6 @@
 from dataclasses import dataclass
 from sentence_transformers import SentenceTransformer
-from pdf_chunk import PDFChunk
+from pdf_chunks import PDFChunk
 
 
 @dataclass
